@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-  * [Track the Progress](#1-track-the-Progress)
+  * [Introduction](#1-introduction)
   * [Requirements](#2-requirements)
   * [Download Datasets and Pre-trained model](#3-download-Datasets-and-Pre-trained-model)
   * [The file structure](#4-the-file-structure)
