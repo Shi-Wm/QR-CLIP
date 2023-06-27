@@ -8,7 +8,7 @@
   * [The file structure](#4-the-file-structure)
   * [Running](#5-running)
 
-## 1. Track the Progress 
+## 1. Introduction
 
 ##  2. Requirements 
 
