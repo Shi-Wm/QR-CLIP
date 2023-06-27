@@ -10,18 +10,6 @@
 
 ## 1. Track the Progress 
 
-**⏳ 1.13 - 1.14**
-```
-> 1) Tidied up the code.
-> 2) Added ft_clip_4cls-max.py, which implements the maximum aggregation of 4 cls.
-```
-**⏳ 1.15 - 1.16**
-```
-> 1) Added test.py, which implements a complete test process.
-> 2) Added search_owk.py, implemented the process of acquiring open world knowledge.
-> 3) After adding open world knowledge, the accuracy achieved 18.36.
-```
-
 ##  2. Requirements 
 
 **Creat Anaconda virtual environment.**
