@@ -9,7 +9,10 @@
   * [Running](#5-running)
 
 ## 1. Introduction
-
+Daily images can convey abstract meanings that require us to memorize and infer profound information. To encourage human-like reasoning, in this work, we teach machines to predict where and when the image was captured.
+Inspired by Hutchins's theory of Distributed Cognition, we design a new model called \textbf{QR-CLIP}, which is composed of two components.
+1) The \textbf{Quantity} Module expands cognitive resources by accumulating as much open-world knowledge as possible from the environment, thereby enhancing cognitive ability.
+2) The \textbf{Relevance} Module integrates relevant information from various cognitive tools to create a comprehensive cognitive outcome.
 ##  2. Requirements 
 
 **Creat Anaconda virtual environment.**
