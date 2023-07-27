@@ -86,15 +86,20 @@ wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download
 conda activate QR-CLIP
 cd QR-CLIP/main/
 ```
-**Training model**
+**Location/Time Fine-tune**
 ```
 mkdir experiment_reslts
-python ft_clip_4cls-max.py
+python 1-fine-tune.py
 ```
 
 **Searching open world knowledge**
 ```
-python search_owk.py
+python 2-search_owk.py
+```
+
+**Training Scoring Mechanism**
+```
+python 3-train_score.py
 ```
 
 **Testing model**
