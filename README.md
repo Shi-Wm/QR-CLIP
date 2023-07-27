@@ -92,7 +92,7 @@ mkdir experiment_reslts
 python ft_clip_4cls-max.py
 ```
 
-**Obtaining open world knowledge**
+**Searching open world knowledge**
 ```
 python search_owk.py
 ```
