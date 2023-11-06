@@ -72,7 +72,7 @@ wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download
 ------------ time_test.txt  # Time label test file
 -------- main
 ------------ owk 
-------------------- open world knowledge.csv # 120,000 open world knowledge
+------------------- open world knowledge.csv # 122,408 open world knowledge
 ------------ experiment_reslts # Save training results
 ------------ 1-fine-tune.py  # Our method
 ------------ 2-search_owk.py # search open world knowledge with 6 cls
